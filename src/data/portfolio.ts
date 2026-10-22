@@ -28,7 +28,7 @@ export const portfolioData = {
       { value: "99.9%", label: "System Uptime" }
     ],
     // Path to resume (e.g. placed inside the public folder as /resume.pdf)
-    resumeUrl: "/Sana_Firdous_Resume.pdf"
+    resumeUrl: "/Sana_Firdous_Resume .pdf.pdf"
   },
 
   // Social Profile Links
