@@ -19,7 +19,7 @@ export const portfolioData = {
     // The short pitch displayed below the roles
     shortBio: "Software Engineer with expertise in Java, Python, SQL, and modern web technologies. Experienced in developing full-stack and AI-powered applications, with a passion for designing scalable solutions, writing clean code, and continuously expanding technical knowledge.",
     // The detailed bio displayed in the About section
-    longBio: "I am a passionate software engineer with a deep foundation in backend development and computer science principles. Over the years, I have focused on building highly concurrent, distributed systems primarily using Java and the Spring Boot ecosystem. I enjoy solving complex architectural challenges, optimizing database performance, and designing clean APIs. When I'm not writing code, I mentor other developers, contribute to open-source libraries, and explore modern web standards to build rich, end-to-end applications.",
+    longBio: "I am an aspiring Software Engineer with a strong foundation in Java, Python, SQL, and core computer science concepts. I have experience developing full-stack applications and AI/ML-based solutions through hands-on projects. My technical skills include React, Node.js, Express, FastAPI, MongoDB, and Machine Learning. I enjoy solving real-world problems, exploring new technologies, and building practical applications that combine software development with artificial intelligence.",
     // Profile statistics shown in the About section
     stats: [
       { value: "3+", label: "Years Experience" },
